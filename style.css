@@ -1,4 +1,22 @@
-h1 {
-    color: red;
-    text-align: center;
+* {
+    background-color: #EDE7D9;
+}
+
+.header-main-style {
+    color: #4B4237;
+    font-family: monospace, sans-serif;
+}
+
+p{
+    font-weight: bold;
+}
+
+.list{
+    color: #736B60;
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 450px;
 }
